@@ -2,10 +2,6 @@
 
 ### Relaxing Mini-Games to Enjoy and Unwind
 
-![Last Commit](https://img.shields.io/github/last-commit/Flagodna-Developer/sheeply?style=for-the-badge)
-![License](https://img.shields.io/github/license/Flagodna-Developer/sheeply?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/Flagodna-Developer/sheeply?style=for-the-badge)
-
 > A collection of peaceful mini-games designed to help you relax, unwind, and find your inner calm. Perfect for meditation breaks, stress relief, or just a moment of tranquility in your day.
 
 ## ✨ Features
@@ -90,25 +86,6 @@ Sheeply is available in 11 languages to make relaxation accessible worldwide:
 ## 📱 Screenshots
 
 _Coming Soon - Screenshots of all mini-games and features_
-
-## 🤝 Contributing
-
-We welcome contributions! Whether it's:
-
-- 🐛 Bug fixes
-- ✨ New features
-- 🌍 Translation improvements
-- 📖 Documentation updates
-- 🎨 UI/UX enhancements
-
-## 📝 License
-
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who help make relaxation accessible
-- Inspired by mindfulness and meditation practices
 
 ## 📞 Support
 
