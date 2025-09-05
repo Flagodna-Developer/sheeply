@@ -1,0 +1,16 @@
+# Basic settings
+title: Sheeply
+description: Relaxing mini-games to enjoy and unwind
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site metadata
+url: "https://flagodna-developer.github.io/sheeply"
+author: "FlagoDNA"
+
+# SEO & Social sharing
+og_image: ""
+twitter_card: summary_large_image
+
+# Favicon
+favicon: ""
