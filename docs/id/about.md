@@ -1,75 +1,75 @@
 # 🐑 Sheeply
 
-### Relaxing Mini-Games to Enjoy and Unwind
+### Mini Game Santai untuk Bersantai dan Melepas Penat
 
-> A collection of peaceful mini-games designed to help you relax, unwind, and find your inner calm. Perfect for meditation breaks, stress relief, or just a moment of tranquility in your day.
+> Kumpulan mini game yang dirancang untuk membantu Anda bersantai, melepas stres, dan menemukan ketenangan batin. Sempurna untuk istirahat meditasi, penghilang stres, atau sekadar momen ketenangan di hari Anda.
 
-## ✨ Features
+## ✨ Fitur
 
-### 🎮 Four Relaxing Mini-Games
+### 🎮 Empat Mini Game Santai
 
-- **🐑 Counting Sheep** - The classic relaxation technique with a digital twist
-- **🌈 Color Matching** - Soothing color-based puzzles to calm your mind
-- **🧩 Memory Game (Emoji)** - Gentle memory challenges with cute emojis
-- **💨 Breathing Cycles** - Guided breathing exercises for mindfulness and calm
+- **🐑 Menghitung Domba** - Teknik relaksasi klasik dengan sentuhan digital
+- **🌈 Memadankan Warna** - Puzzle berbasis warna yang menenangkan pikiran
+- **🧩 Game Memori (Emoji)** - Tantangan memori lembut dengan emoji lucu
+- **💨 Siklus Pernapasan** - Latihan pernapasan terpandu untuk mindfulness dan ketenangan
 
-### 🎯 Comprehensive Stats & Progress Tracking
+### 🎯 Statistik Lengkap & Pelacakan Progres
 
-- **📊 Daily Streak Tracking** - Build consistent relaxation habits
-- **📈 7 Relax Levels** - Progress from "Gentle" to "Satori" mastery
-- **🏆 50+ Milestones** - Achievements to celebrate your journey
-- **📅 Monthly & Yearly Analytics** - Track your relaxation patterns over time
-- **🏅 Leaderboards** - Friendly competition across all mini-games
+- **📊 Pelacakan Streak Harian** - Bangun kebiasaan relaksasi yang konsisten
+- **📈 7 Level Relaks** - Progres dari "Gentle" ke "Satori"
+- **🏆 50+ Pencapaian** - Raih prestasi untuk merayakan perjalanan Anda
+- **📅 Analitik Bulanan & Tahunan** - Lacak pola relaksasi dari waktu ke waktu
+- **🏅 Papan Peringkat** - Kompetisi ramah di semua mini game
 
-### ⚙️ Customization & Accessibility
+### ⚙️ Kustomisasi & Aksesibilitas
 
-- **🎨 Easy Customize Settings** - Personalize your relaxation experience
-- **🌍 11 Language Support** - Accessible to users worldwide
-- **📱 Full Offline Support** - Relax anywhere, anytime without internet
+- **🎨 Pengaturan Mudah Disesuaikan** - Personalisasi pengalaman relaksasi Anda
+- **🌍 Mendukung 11 Bahasa** - Bisa diakses oleh pengguna di seluruh dunia
+- **📱 Dukungan Offline Penuh** - Bersantai kapan saja tanpa internet
 
-## 🌟 Relax Levels
+## 🌟 Level Relaks
 
-Progress through 7 carefully designed relaxation levels based on your dedication and time spent:
+Lalui 7 level relaksasi yang dirancang berdasarkan dedikasi dan waktu yang Anda habiskan:
 
-| Level | Emoji | Name           | Requirement                    | Description                     |
-| ----- | ----- | -------------- | ------------------------------ | ------------------------------- |
-| 1     | ✨    | **Gentle**     | < 30 min this month            | Starting your journey           |
-| 2     | 🍃    | **Calm**       | 30–59 min this month           | Mind feels refreshed            |
-| 3     | 😊    | **Relaxed**    | 5+ days & 60+ min this month   | Steady progress toward calmness |
-| 4     | 🌸    | **Peaceful**   | 10+ days & 120+ min this month | Deeply relaxed and balanced     |
-| 5     | 🌙    | **Tranquil**   | 15+ days & 200+ min this month | Peaceful and centered           |
-| 6     | 🧘‍♂️    | **Zen Master** | 20+ days & 300+ min this month | Deep meditation and harmony     |
-| 7     | 🌟    | **Satori**     | 25+ days & 400+ min this month | Ultimate calm and mastery       |
+| Level | Emoji | Nama           | Persyaratan                     | Deskripsi                           |
+| ----- | ----- | -------------- | ------------------------------- | ----------------------------------- |
+| 1     | ✨    | **Gentle**     | < 30 menit bulan ini            | Memulai perjalanan Anda             |
+| 2     | 🍃    | **Calm**       | 30–59 menit bulan ini           | Pikiran terasa segar                |
+| 3     | 😊    | **Relaxed**    | 5+ hari & 60+ menit bulan ini   | Progres stabil menuju ketenangan    |
+| 4     | 🌸    | **Peaceful**   | 10+ hari & 120+ menit bulan ini | Sangat rileks dan seimbang          |
+| 5     | 🌙    | **Tranquil**   | 15+ hari & 200+ menit bulan ini | Tenang dan fokus                    |
+| 6     | 🧘‍♂️    | **Zen Master** | 20+ hari & 300+ menit bulan ini | Meditasi mendalam dan harmoni       |
+| 7     | 🌟    | **Satori**     | 25+ hari & 400+ menit bulan ini | Ketenangan dan penguasaan tertinggi |
 
-## 🏆 Milestone System
+## 🏆 Sistem Pencapaian
 
-Celebrate your progress with 50+ achievements across all activities:
+Rayakan progres Anda dengan lebih dari 50 pencapaian di semua aktivitas:
 
-### 🐑 Sheep Counting Milestones
+### 🐑 Pencapaian Menghitung Domba
 
-- Count 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 sheep
+- Hitung 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 domba
 
-### 💨 Breathing Exercise Milestones
+### 💨 Pencapaian Latihan Pernapasan
 
-- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 breathing cycles
+- Selesaikan 1, 5, 10, 20, 50, 100, 200, 500, 1000 siklus pernapasan
 
-### 🌈 Color Matching Milestones
+### 🌈 Pencapaian Memadankan Warna
 
-- Solve 1, 5, 10, 20, 50, 100, 200, 500, 1000 color matches
+- Selesaikan 1, 5, 10, 20, 50, 100, 200, 500, 1000 padanan warna
 
-### 🧩 Memory Game Milestones
+### 🧩 Pencapaian Game Memori
 
-- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 memory games
+- Selesaikan 1, 5, 10, 20, 50, 100, 200, 500, 1000 game memori
 
-### ⏱️ Time & Consistency Milestones
+### ⏱️ Pencapaian Waktu & Konsistensi
 
-- Play 1, 5, 10, 15, 20+ hours total
-- Maintain 3, 5, 7+ day streaks
-- Complete 10, 50, 100, 200, 500+ total mini-games
+- Bermain 1, 5, 10, 15, 20+ jam total
+- Pertahankan streak 3, 5, 7+ hari
+- Selesaikan 10, 50, 100, 200, 500+ mini game total
 
-## 🌍 Language Support
+## 🌍 Dukungan Bahasa
 
-Sheeply is available in 11 languages to make relaxation accessible worldwide:
+Sheeply tersedia dalam 11 bahasa agar relaksasi dapat diakses di seluruh dunia:
 
 - 🇺🇸 **English** (en)
 - 🇨🇳 **Chinese** (zh)
@@ -83,22 +83,22 @@ Sheeply is available in 11 languages to make relaxation accessible worldwide:
 - 🇩🇪 **German** (de)
 - 🇲🇾 **Malay** (ms)
 
-## 📱 Screenshots
+## 📱 Screenshot
 
-_Coming Soon - Screenshots of all mini-games and features_
+_Segera hadir - Screenshot semua mini game dan fitur_
 
-## 📞 Support
+## 📞 Dukungan
 
 - 📧 Email: flagodna.com@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
+- 🐛 Masalah: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
+- 💬 Diskusi: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for a more peaceful world**
+**Dibuat dengan ❤️ untuk dunia yang lebih damai**
 
-[📧 Contact Support](mailto:flagodna.com@gmail.com) • [⭐ Rate on Play Store](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
+[📧 Hubungi Dukungan](mailto:flagodna.com@gmail.com) • [⭐ Nilai di Play Store](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
 
 </div>

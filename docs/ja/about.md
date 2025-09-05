@@ -1,75 +1,75 @@
 # 🐑 Sheeply
 
-### Relaxing Mini-Games to Enjoy and Unwind
+### リラックスできるミニゲームでゆったり楽しもう
 
-> A collection of peaceful mini-games designed to help you relax, unwind, and find your inner calm. Perfect for meditation breaks, stress relief, or just a moment of tranquility in your day.
+> 心を落ち着かせ、リラックスするためにデザインされたミニゲーム集です。瞑想の合間やストレス解消、日常のひとときの安らぎに最適です。
 
-## ✨ Features
+## ✨ 特徴
 
-### 🎮 Four Relaxing Mini-Games
+### 🎮 4 つのリラックスミニゲーム
 
-- **🐑 Counting Sheep** - The classic relaxation technique with a digital twist
-- **🌈 Color Matching** - Soothing color-based puzzles to calm your mind
-- **🧩 Memory Game (Emoji)** - Gentle memory challenges with cute emojis
-- **💨 Breathing Cycles** - Guided breathing exercises for mindfulness and calm
+- **🐑 羊を数える** - デジタルで楽しむ伝統的なリラクゼーション法
+- **🌈 カラーマッチング** - 心を落ち着ける色ベースのパズル
+- **🧩 記憶ゲーム（絵文字）** - 可愛い絵文字でやさしい記憶チャレンジ
+- **💨 呼吸サイクル** - マインドフルネスのための呼吸ガイド
 
-### 🎯 Comprehensive Stats & Progress Tracking
+### 🎯 詳細な統計と進捗管理
 
-- **📊 Daily Streak Tracking** - Build consistent relaxation habits
-- **📈 7 Relax Levels** - Progress from "Gentle" to "Satori" mastery
-- **🏆 50+ Milestones** - Achievements to celebrate your journey
-- **📅 Monthly & Yearly Analytics** - Track your relaxation patterns over time
-- **🏅 Leaderboards** - Friendly competition across all mini-games
+- **📊 日次連続記録** - 継続的なリラックス習慣を作る
+- **📈 7 つのリラックスレベル** - 「Gentle」から「Satori」まで成長
+- **🏆 50 以上のマイルストーン** - 成功体験をお祝い
+- **📅 月間・年間分析** - リラックスパターンを追跡
+- **🏅 リーダーボード** - 全ミニゲームでの友好的な競争
 
-### ⚙️ Customization & Accessibility
+### ⚙️ カスタマイズ & アクセシビリティ
 
-- **🎨 Easy Customize Settings** - Personalize your relaxation experience
-- **🌍 11 Language Support** - Accessible to users worldwide
-- **📱 Full Offline Support** - Relax anywhere, anytime without internet
+- **🎨 簡単設定カスタマイズ** - リラックス体験を個別設定
+- **🌍 11 言語対応** - 世界中のユーザーが利用可能
+- **📱 完全オフライン対応** - インターネットなしでどこでもリラックス
 
-## 🌟 Relax Levels
+## 🌟 リラックスレベル
 
-Progress through 7 carefully designed relaxation levels based on your dedication and time spent:
+時間と努力に応じて設計された 7 つのリラックスレベルを進めよう：
 
-| Level | Emoji | Name           | Requirement                    | Description                     |
-| ----- | ----- | -------------- | ------------------------------ | ------------------------------- |
-| 1     | ✨    | **Gentle**     | < 30 min this month            | Starting your journey           |
-| 2     | 🍃    | **Calm**       | 30–59 min this month           | Mind feels refreshed            |
-| 3     | 😊    | **Relaxed**    | 5+ days & 60+ min this month   | Steady progress toward calmness |
-| 4     | 🌸    | **Peaceful**   | 10+ days & 120+ min this month | Deeply relaxed and balanced     |
-| 5     | 🌙    | **Tranquil**   | 15+ days & 200+ min this month | Peaceful and centered           |
-| 6     | 🧘‍♂️    | **Zen Master** | 20+ days & 300+ min this month | Deep meditation and harmony     |
-| 7     | 🌟    | **Satori**     | 25+ days & 400+ min this month | Ultimate calm and mastery       |
+| レベル | 絵文字 | 名前           | 条件                        | 説明                       |
+| ------ | ------ | -------------- | --------------------------- | -------------------------- |
+| 1      | ✨     | **Gentle**     | 今月 30 分未満              | 旅のスタート               |
+| 2      | 🍃     | **Calm**       | 今月 30〜59 分              | 心がリフレッシュ           |
+| 3      | 😊     | **Relaxed**    | 5 日以上 & 今月 60 分以上   | 穏やかさへの安定した進歩   |
+| 4      | 🌸     | **Peaceful**   | 10 日以上 & 今月 120 分以上 | 深いリラックスとバランス   |
+| 5      | 🌙     | **Tranquil**   | 15 日以上 & 今月 200 分以上 | 安らぎと集中               |
+| 6      | 🧘‍♂️     | **Zen Master** | 20 日以上 & 今月 300 分以上 | 深い瞑想と調和             |
+| 7      | 🌟     | **Satori**     | 25 日以上 & 今月 400 分以上 | 究極の落ち着きとマスタリー |
 
-## 🏆 Milestone System
+## 🏆 マイルストーンシステム
 
-Celebrate your progress with 50+ achievements across all activities:
+50 以上のマイルストーンで進捗を祝おう：
 
-### 🐑 Sheep Counting Milestones
+### 🐑 羊を数えるマイルストーン
 
-- Count 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 sheep
+- 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 頭の羊を数える
 
-### 💨 Breathing Exercise Milestones
+### 💨 呼吸エクササイズマイルストーン
 
-- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 breathing cycles
+- 1, 5, 10, 20, 50, 100, 200, 500, 1000 サイクルを完了
 
-### 🌈 Color Matching Milestones
+### 🌈 カラーマッチングマイルストーン
 
-- Solve 1, 5, 10, 20, 50, 100, 200, 500, 1000 color matches
+- 1, 5, 10, 20, 50, 100, 200, 500, 1000 マッチを解く
 
-### 🧩 Memory Game Milestones
+### 🧩 記憶ゲームマイルストーン
 
-- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 memory games
+- 1, 5, 10, 20, 50, 100, 200, 500, 1000 回プレイ
 
-### ⏱️ Time & Consistency Milestones
+### ⏱️ 時間 & 継続マイルストーン
 
-- Play 1, 5, 10, 15, 20+ hours total
-- Maintain 3, 5, 7+ day streaks
-- Complete 10, 50, 100, 200, 500+ total mini-games
+- 総プレイ時間 1, 5, 10, 15, 20+ 時間
+- 3, 5, 7+ 日の連続記録維持
+- 合計 10, 50, 100, 200, 500+ ミニゲーム達成
 
-## 🌍 Language Support
+## 🌍 言語サポート
 
-Sheeply is available in 11 languages to make relaxation accessible worldwide:
+Sheeply は 11 言語で提供され、世界中でリラックス可能：
 
 - 🇺🇸 **English** (en)
 - 🇨🇳 **Chinese** (zh)
@@ -83,22 +83,22 @@ Sheeply is available in 11 languages to make relaxation accessible worldwide:
 - 🇩🇪 **German** (de)
 - 🇲🇾 **Malay** (ms)
 
-## 📱 Screenshots
+## 📱 スクリーンショット
 
-_Coming Soon - Screenshots of all mini-games and features_
+_近日公開 - 全ミニゲームと機能のスクリーンショット_
 
-## 📞 Support
+## 📞 サポート
 
-- 📧 Email: flagodna.com@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
+- 📧 メール: flagodna.com@gmail.com
+- 🐛 問題: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
+- 💬 ディスカッション: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for a more peaceful world**
+**より平和な世界のために ❤️ で作られました**
 
-[📧 Contact Support](mailto:flagodna.com@gmail.com) • [⭐ Rate on Play Store](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
+[📧 サポートに連絡](mailto:flagodna.com@gmail.com) • [⭐ Play ストアで評価](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
 
 </div>
