@@ -1,104 +1,127 @@
 # 🐑 Sheeply
 
-### リラックスして楽しむミニゲーム
+### Relaxing Mini-Games to Enjoy and Unwind
 
-> 心を落ち着け、リラックスし、内なる平穏を見つけるための平和なミニゲーム集です。瞑想の休憩、ストレス解消、または日常のひとときの安らぎに最適です。
+![Last Commit](https://img.shields.io/github/last-commit/Flagodna-Developer/sheeply?style=for-the-badge)
+![License](https://img.shields.io/github/license/Flagodna-Developer/sheeply?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Flagodna-Developer/sheeply?style=for-the-badge)
 
-## ✨ 特徴
+> A collection of peaceful mini-games designed to help you relax, unwind, and find your inner calm. Perfect for meditation breaks, stress relief, or just a moment of tranquility in your day.
 
-### 🎮 4 つのリラックスミニゲーム
+## ✨ Features
 
-- **🐑 ひつじを数える** – デジタル版で楽しむクラシックなリラクゼーション法
-- **🌈 カラー合わせ** – 心を落ち着ける色ベースのパズル
-- **🧩 メモリーゲーム（絵文字）** – 可愛い絵文字を使った優しい記憶チャレンジ
-- **💨 呼吸サイクル** – マインドフルネスとリラックスのためのガイド付き呼吸練習
+### 🎮 Four Relaxing Mini-Games
 
-### 🎯 詳細な統計 & 進捗追跡
+- **🐑 Counting Sheep** - The classic relaxation technique with a digital twist
+- **🌈 Color Matching** - Soothing color-based puzzles to calm your mind
+- **🧩 Memory Game (Emoji)** - Gentle memory challenges with cute emojis
+- **💨 Breathing Cycles** - Guided breathing exercises for mindfulness and calm
 
-- **📊 毎日の連続記録追跡** – 継続的なリラックス習慣の構築
-- **📈 7 つのリラックスレベル** – 「Gentle」から「Satori」マスターまで進行
-- **🏆 50 以上の実績** – 進捗を祝おう
-- **📅 月次 & 年次分析** – リラックスパターンの時間的追跡
-- **🏅 リーダーボード** – すべてのミニゲームでフレンドリーな競争
+### 🎯 Comprehensive Stats & Progress Tracking
 
-### ⚙️ カスタマイズ & アクセシビリティ
+- **📊 Daily Streak Tracking** - Build consistent relaxation habits
+- **📈 7 Relax Levels** - Progress from "Gentle" to "Satori" mastery
+- **🏆 50+ Milestones** - Achievements to celebrate your journey
+- **📅 Monthly & Yearly Analytics** - Track your relaxation patterns over time
+- **🏅 Leaderboards** - Friendly competition across all mini-games
 
-- **🎨 簡単にカスタマイズ可能な設定** – リラックス体験を個別化
-- **🌍 11 言語対応** – 世界中のユーザーに対応
-- **📱 完全オフライン対応** – インターネットなしでいつでもどこでもリラックス
+### ⚙️ Customization & Accessibility
 
-## 🌟 リラックスレベル
+- **🎨 Easy Customize Settings** - Personalize your relaxation experience
+- **🌍 11 Language Support** - Accessible to users worldwide
+- **📱 Full Offline Support** - Relax anywhere, anytime without internet
 
-7 段階のリラックスレベルを、時間と取り組みに応じて進行：
+## 🌟 Relax Levels
 
-| レベル | 絵文字 | 名前           | 条件                        | 説明                                 |
-| ------ | ------ | -------------- | --------------------------- | ------------------------------------ |
-| 1      | ✨     | **Gentle**     | 今月 30 分未満              | 旅の始まり                           |
-| 2      | 🍃     | **Calm**       | 今月 30–59 分               | 心がリフレッシュされる               |
-| 3      | 😊     | **Relaxed**    | 5 日以上 & 今月 60 分以上   | 穏やかさに向けた安定した進歩         |
-| 4      | 🌸     | **Peaceful**   | 10 日以上 & 今月 120 分以上 | 深くリラックスしバランスが取れている |
-| 5      | 🌙     | **Tranquil**   | 15 日以上 & 今月 200 分以上 | 平穏で集中している                   |
-| 6      | 🧘‍♂️     | **Zen Master** | 20 日以上 & 今月 300 分以上 | 深い瞑想と調和                       |
-| 7      | 🌟     | **Satori**     | 25 日以上 & 今月 400 分以上 | 究極の落ち着きとマスタリー           |
+Progress through 7 carefully designed relaxation levels based on your dedication and time spent:
 
-## 🏆 実績システム
+| Level | Emoji | Name           | Requirement                    | Description                     |
+| ----- | ----- | -------------- | ------------------------------ | ------------------------------- |
+| 1     | ✨    | **Gentle**     | < 30 min this month            | Starting your journey           |
+| 2     | 🍃    | **Calm**       | 30–59 min this month           | Mind feels refreshed            |
+| 3     | 😊    | **Relaxed**    | 5+ days & 60+ min this month   | Steady progress toward calmness |
+| 4     | 🌸    | **Peaceful**   | 10+ days & 120+ min this month | Deeply relaxed and balanced     |
+| 5     | 🌙    | **Tranquil**   | 15+ days & 200+ min this month | Peaceful and centered           |
+| 6     | 🧘‍♂️    | **Zen Master** | 20+ days & 300+ min this month | Deep meditation and harmony     |
+| 7     | 🌟    | **Satori**     | 25+ days & 400+ min this month | Ultimate calm and mastery       |
 
-すべてのアクティビティで 50 以上の実績を達成して進捗を祝おう：
+## 🏆 Milestone System
 
-### 🐑 ひつじカウントの実績
+Celebrate your progress with 50+ achievements across all activities:
 
-- 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 匹のひつじを数える
+### 🐑 Sheep Counting Milestones
 
-### 💨 呼吸練習の実績
+- Count 1, 5, 10, 50, 100, 200, 500, 1000, 2000, 5000 sheep
 
-- 1, 5, 10, 20, 50, 100, 200, 500, 1000 回の呼吸サイクルを完了
+### 💨 Breathing Exercise Milestones
 
-### 🌈 カラー合わせの実績
+- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 breathing cycles
 
-- 1, 5, 10, 20, 50, 100, 200, 500, 1000 回のカラー一致をクリア
+### 🌈 Color Matching Milestones
 
-### 🧩 メモリーゲームの実績
+- Solve 1, 5, 10, 20, 50, 100, 200, 500, 1000 color matches
 
-- 1, 5, 10, 20, 50, 100, 200, 500, 1000 回のメモリーゲームを完了
+### 🧩 Memory Game Milestones
 
-### ⏱️ 時間と継続の実績
+- Complete 1, 5, 10, 20, 50, 100, 200, 500, 1000 memory games
 
-- 合計 1, 5, 10, 15, 20+時間プレイ
-- 3, 5, 7 日以上の連続プレイを維持
-- 合計 10, 50, 100, 200, 500+ミニゲームを完了
+### ⏱️ Time & Consistency Milestones
 
-## 🌍 言語サポート
+- Play 1, 5, 10, 15, 20+ hours total
+- Maintain 3, 5, 7+ day streaks
+- Complete 10, 50, 100, 200, 500+ total mini-games
 
-Sheeply は 11 言語に対応しており、世界中でリラックスを楽しめます：
+## 🌍 Language Support
 
-- 🇺🇸 **英語** (en)
-- 🇨🇳 **中国語** (zh)
-- 🇪🇸 **スペイン語** (es)
-- 🇮🇳 **ヒンディー語** (hi)
-- 🇸🇦 **アラビア語** (ar)
-- 🇮🇩 **インドネシア語** (id)
-- 🇵🇹 **ポルトガル語** (pt)
-- 🇷🇺 **ロシア語** (ru)
-- 🇯🇵 **日本語** (ja)
-- 🇩🇪 **ドイツ語** (de)
-- 🇲🇾 **マレー語** (ms)
+Sheeply is available in 11 languages to make relaxation accessible worldwide:
 
-## 📱 スクリーンショット
+- 🇺🇸 **English** (en)
+- 🇨🇳 **Chinese** (zh)
+- 🇪🇸 **Spanish** (es)
+- 🇮🇳 **Hindi** (hi)
+- 🇸🇦 **Arabic** (ar)
+- 🇮🇩 **Indonesian** (id)
+- 🇵🇹 **Portuguese** (pt)
+- 🇷🇺 **Russian** (ru)
+- 🇯🇵 **Japanese** (ja)
+- 🇩🇪 **German** (de)
+- 🇲🇾 **Malay** (ms)
 
-_近日公開 – すべてのミニゲームと機能のスクリーンショット_
+## 📱 Screenshots
 
-## 📞 サポート
+_Coming Soon - Screenshots of all mini-games and features_
 
-- 📧 メール: flagodna.com@gmail.com
-- 🐛 問題: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
-- 💬 ディスカッション: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
+## 🤝 Contributing
+
+We welcome contributions! Whether it's:
+
+- 🐛 Bug fixes
+- ✨ New features
+- 🌍 Translation improvements
+- 📖 Documentation updates
+- 🎨 UI/UX enhancements
+
+## 📝 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who help make relaxation accessible
+- Inspired by mindfulness and meditation practices
+
+## 📞 Support
+
+- 📧 Email: flagodna.com@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/Flagodna-Developer/sheeply/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Flagodna-Developer/sheeply/discussions)
 
 ---
 
 <div align="center">
 
-**より平和な世界のために ❤️ で作られました**
+**Made with ❤️ for a more peaceful world**
 
-[📧 サポートに連絡](mailto:flagodna.com@gmail.com) • [⭐ Play ストアで評価](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
+[📧 Contact Support](mailto:flagodna.com@gmail.com) • [⭐ Rate on Play Store](https://play.google.com/store/apps/details?id=com.flagodna.sheeply)
 
 </div>
