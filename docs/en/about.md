@@ -85,7 +85,7 @@ Sheeply is available in 11 languages to make relaxation accessible worldwide:
 
 ## 📱 Screenshots
 
-_Coming Soon - Screenshots of all mini-games and features_
+![Screenshots](../../screenshots/ss.png)
 
 ## 📞 Support
 

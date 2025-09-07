@@ -85,7 +85,7 @@ Sheeply está disponible en 11 idiomas para hacer la relajación accesible a niv
 
 ## 📱 Capturas de pantalla
 
-_Pronto – Capturas de todos los mini-juegos y funciones_
+![Screenshots](../../screenshots/ss.png)
 
 ## 📞 Soporte
 

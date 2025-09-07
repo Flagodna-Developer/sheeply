@@ -85,7 +85,7 @@ Sheeply 提供 11 种语言，让放松可以全球访问：
 
 ## 📱 截图
 
-_即将推出 – 所有迷你游戏及功能截图_
+![Screenshots](../../screenshots/ss.png)
 
 ## 📞 支持
 

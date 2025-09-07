@@ -9,8 +9,8 @@ url: "https://flagodna-developer.github.io/sheeply"
 author: "FlagoDNA"
 
 # SEO & Social sharing
-og_image: ""
+og_image: "https://flagodna-developer.github.io/sheeply/screenshots/ss.png"
 twitter_card: summary_large_image
 
 # Favicon
-favicon: ""
+favicon: "https://flagodna-developer.github.io/sheeply/screenshots/favicon.ico"
